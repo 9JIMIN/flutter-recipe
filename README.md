@@ -7,9 +7,8 @@ Flutter Codelab, Cookbook.. 기타 여러 기술들 레시피
 
 - [x]  [Write your first Flutter app, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1)
 - [x]  [Write your first Flutter app, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2)
-- [startup_namer.dart](https://github.com/9JIMIN/flutter-recipe/blob/master/startup_namer.dart)
 - [x]  [Write your first Flutter app on the web](https://flutter.dev/docs/get-started/codelab-web)
-- [ ]  [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter)
+- [x]  [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter)
 
 ## Designing a Flutter UI
 
